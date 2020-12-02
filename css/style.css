@@ -3,3 +3,8 @@
     width: 200px;
     margin-bottom: 15px;
 }
+
+html {
+    scroll-behavior: smooth;
+    /* esta propiedad sirve para que, cuando vayamos desde el navbar a una sección, scrollee con un efecto más suave */
+}
